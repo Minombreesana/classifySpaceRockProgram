@@ -2,9 +2,7 @@
 
 **Nn In Pytorch For Classifing Lunar Rocks**
 
-**Based on a Microsoft learning path: **
-
-[http://https://docs.microsoft.com/en-us/learn/paths/classify-space-rocks-artificial-intelligence-nasa/](http://https://docs.microsoft.com/en-us/learn/paths/classify-space-rocks-artificial-intelligence-nasa/)
+**Based on a Microsoft learning path**
 
 **For downloading Dataset: **
 
