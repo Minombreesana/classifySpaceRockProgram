@@ -1,6 +1,6 @@
 # **CLASSIFY SPACE ROCK PROGRAM**
 
-**Nn In Pytorch For Classifing Lunar Rocks**
+**Nn In Pytorch For Classifing Moon Rocks**
 
 **Based on a Microsoft learning path**
 
